@@ -5,7 +5,7 @@
    </picture>
 </p>
 
-# QCRAFT Quantum Quantum Debugger 
+# QCRAFT Quantum Debugger 
 ![Python Versions](https://img.shields.io/badge/python-3.9%20|%203.10%20|%203.11%20|%203.12-blue.svg)  
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/Qcraft-UEx/QCRAFT-Quantum-Collaborative-Interface/blob/main/LICENSE)
 
