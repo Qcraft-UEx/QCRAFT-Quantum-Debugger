@@ -7,6 +7,7 @@
 
 # QCRAFT Quantum Debugger 
 ![Python Versions](https://img.shields.io/badge/python-3.9%20|%203.10%20|%203.11%20|%203.12-blue.svg)  
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/Qcraft-UEx/QCRAFT-Quantum-Collaborative-Interface/blob/main/LICENSE)
 
 **QCRAFT Quantum Debugger**  is a tool for quantum circuit development designed for real-time collaboration and debug. It enables multiple users to **co-edit quantum circuits synchronously** through a shared visual interface. This functionality is built on a custom adaptation of the **Operational Transformation (OT)** model, tailored specifically for quantum circuits. And enables you to analyze circuit behavior step by step to verify logic using interactive **debug mode**.
